@@ -1,0 +1,12 @@
+Number	_NA_	Sing	Plur
+PartForm	_NA_	Past	Pres	Agt	Neg
+Case	_NA_	Ela	Ine	Ins	Par	Ill	Com	Nom	All	Acc	Ade	Gen	Ess	Abl	Tra	Abe
+Person	_NA_	1	2	3
+Derivation	_NA_	Ja	Minen	Sti	Vs	Tar	Llinen	Inen	U	Ttaa	Ttain	Lainen	Ton
+Person[psor]	_NA_	1	2	3
+VerbForm	_NA_	Inf	Part	Fin
+Mood	_NA_	Imp	Cnd	Pot	Ind
+Tense	_NA_	Past	Pres
+Clitic	_NA_	Pa,S	Han	Ko	Pa	Han,Pa	Han,Ko	Ko,S	S	Kin	Kaan	Ka
+Degree	_NA_	Pos	Cmp	Sup
+Voice	_NA_	Pass	Act

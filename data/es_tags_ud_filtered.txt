@@ -1,0 +1,6 @@
+Person	_NA_	3	1	2
+Mood	_NA_	Imp	Ind	Sub	Cnd
+Tense	_NA_	Fut	Imp	Pres	Past
+Gender	_NA_	Fem	Masc
+VerbForm	_NA_	Inf	Ger	Part	Fin
+Number	_NA_	Plur	Sing

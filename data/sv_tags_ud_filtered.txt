@@ -1,0 +1,9 @@
+Gender	_NA_	Neut	Masc	Fem	Com
+Degree	_NA_	Sup	Cmp	Pos
+Number	_NA_	Plur	Sing
+Case	_NA_	Gen	Nom	Acc
+Poss	_NA_	Yes
+Voice	_NA_	Act	Pass
+Tense	_NA_	Pres	Past
+Definite	_NA_	Ind	Def
+VerbForm	_NA_	Sup	Part	Inf	Fin	Stem
