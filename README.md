@@ -3,7 +3,12 @@ This project contains the necessary files to reproduce the paper:
 ["Explaining Character-Aware Neural Networks for Word-Level Prediction:
 Do They Discover Linguistic Rules?"](https://arxiv.org/abs/1808.09551)
 
-Note that this is a minimalistic version. An elaborate version with extensive examples will be made available upon acceptance of the paper and will be made available via Github.
+An example is given in the figure below. It shows the individual character contributions of the Spanish adjective económicas. The character
+a has the highest positive (red) contribution for predicting the label Gender=Fem, and the character s for
+predicting the label Number=Plur. This coincides with our linguistic knowledge of Spanish.
+
+![alt text](images/example_spanish.png "Example of contextual decomposition for a Spanish word.")
+
 
 # Framework
 All code was implemented in Python 3.5. We used Pytorch 0.4.0.. 
