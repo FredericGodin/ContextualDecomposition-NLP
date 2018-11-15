@@ -1,7 +1,7 @@
 # Introduction
 This project contains the necessary files to reproduce the paper:
 ["Explaining Character-Aware Neural Networks for Word-Level Prediction:
-Do They Discover Linguistic Rules?"](https://arxiv.org/abs/1808.09551)
+Do They Discover Linguistic Rules?"](https://arxiv.org/abs/1808.09551). This [paper](http://aclweb.org/anthology/D18-1365) was presented at [EMNLP 2018](https://aclanthology.coli.uni-saarland.de/events/emnlp-2018).
 
 An example is given in the figure below. It shows the individual character contributions of the Spanish adjective económicas. The character
 a has the highest positive (red) contribution for predicting the label Gender=Fem, and the character s for
@@ -58,3 +58,22 @@ For visualization, one can use the CDConv class which can be found in contextual
 
 The file 'example.py' contains an example on how to obtain the contribution values.
 
+# Citation
+If you like this repository and use our code, please cite the following publication:
+
+```
+@InProceedings{D18-1365,
+  author = 	"Godin, Fr{\'e}deric
+		and Demuynck, Kris
+		and Dambre, Joni
+		and De Neve, Wesley
+		and Demeester, Thomas",
+  title = 	"Explaining Character-Aware Neural Networks for Word-Level Prediction: Do They Discover Linguistic Rules?",
+  booktitle = 	"Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"3275--3284",
+  location = 	"Brussels, Belgium",
+  url = 	"http://aclweb.org/anthology/D18-1365"
+}
+```
